@@ -13,7 +13,7 @@ Since 1998, [GroupLens](http://www.grouplens.org) has been releasing movie ratin
 
 Here's a snapshot of what the ratings.csv file looks like:
 
-~[image of dataset]
+![image of dataset]
 (ratings.png)
  
  
